@@ -231,6 +231,7 @@ flex-basis: 35%;
     flex-direction: row;
 }
 
+
 .work:hover img{
     transform: scale(1.1);
 
